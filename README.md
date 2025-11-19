@@ -19,7 +19,7 @@ Create quizzes, manage questions, and take quizzes online.
 This project is a complete online quiz system:
 
 - **Frontend (React):** Provides a dynamic, user-friendly interface for managing and taking quizzes.
-- **Backend (Spring Boot):** Handles business logic, data storage (MySQL or H2), and exposes REST APIs for the frontend.
+- **Backend (Spring Boot):** Handles business logic, data storage (postgresql), and exposes REST APIs for the frontend.
 
 
 ## Features
@@ -32,7 +32,7 @@ This project is a complete online quiz system:
 ## Tech Stack
 - **Frontend:** React, JS, CSS  
 - **Backend:** Spring Boot, Java  
-- **Database:** H2 / MySQL  
+- **Database:** Postgresql 
 
 ---
 
